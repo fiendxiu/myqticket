@@ -1,0 +1,52 @@
+
+body {
+    font-size:14px;
+    width:70%;
+    margin:auto;
+    border:red solid thin;
+}
+
+#header h1 {
+    font-size:24px;
+}
+
+#header form input {
+    width:170px;
+    padding:7px 10px;
+    border:1px solid #ccc;
+    margin-right:10px;
+    margin-left: 10px;
+}
+
+#header form input#btnSubmit {
+    width:70px;
+}
+
+table {
+    display: table;
+    border-spacing: 2px;
+    border-color: grey;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+table th {
+    padding: 5px;
+    background-color: #6d88ad;
+    color: #fff;
+    font-size: 14px;
+}
+
+table th td {
+    padding: 5px;
+}
+
+#footer p {
+    clear: both;
+    color: blue;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    font-size: 9pt;
+}
